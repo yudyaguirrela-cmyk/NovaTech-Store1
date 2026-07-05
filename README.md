@@ -226,11 +226,6 @@ Navegación entre páginas.
 Funcionamiento del formulario.
 Visualización correcta del catálogo.
 Diseño responsive.
-10. Enlace del video de sustentación
-
-
-
-PEGAR AQUÍ EL ENLACE DEL REPOSITORIO
 
 12. Conclusión
 
