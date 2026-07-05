@@ -228,13 +228,7 @@ Visualización correcta del catálogo.
 Diseño responsive.
 10. Enlace del video de sustentación
 
-Enlace del video:
 
-PEGAR AQUÍ EL ENLACE DEL VIDEO
-
-11. Enlace del repositorio GitHub
-
-Repositorio del proyecto:
 
 PEGAR AQUÍ EL ENLACE DEL REPOSITORIO
 
